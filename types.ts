@@ -19,6 +19,13 @@ export interface ParticleParams {
   brightness: number;
 }
 
+export interface InteractionPoint {
+  x: number;
+  y: number;
+  z: number;
+  active: boolean;
+}
+
 export interface AppState {
   params: ParticleParams;
   isProcessing: boolean;
