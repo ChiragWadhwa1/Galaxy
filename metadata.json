@@ -1,0 +1,5 @@
+{
+  "name": "Lumina: AI Particle Symphony",
+  "description": "A high-performance, real-time interactive 3D particle system powered by Three.js and Gemini AI. Command the cosmos with natural language to reshape constellations, colors, and dynamics.",
+  "requestFramePermissions": []
+}
